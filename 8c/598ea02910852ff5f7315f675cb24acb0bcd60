@@ -1,0 +1,32 @@
+.gemini/skills/data-product-documentation/SKILL.md
+  s_cbfba8088487e9::t_d2c3653fa4cc17 40
+  s_60239c16357a82::t_bf28d0e9d06e39 58
+  s_60239c16357a82::t_5db8837fd20f45 63
+  s_cbfba8088487e9::t_1a197db76f6ac5 37-39
+  s_60239c16357a82::t_195a881df74e99 59-62
+  s_60239c16357a82::t_88070d1f895970 64-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "8c598ea02910852ff5f7315f675cb24acb0bcd60",
+  "prompts": {},
+  "sessions": {
+    "s_60239c16357a82": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "2aa4e400-0e44-489a-9909-9e2ea4fb5ebd",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "valendasilva <valentina.dasilva@pediosya.com>"
+    },
+    "s_cbfba8088487e9": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "3f701a0b-c97d-4110-beab-35ff8d1d176c",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "valendasilva <valentina.dasilva@pediosya.com>"
+    }
+  }
+}
