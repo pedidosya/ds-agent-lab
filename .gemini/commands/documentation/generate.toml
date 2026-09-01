@@ -1,0 +1,10 @@
+description = "Document or refresh a Data Product from a GitHub URL using a selected template and Confluence destination."
+
+prompt = """
+Use the data-product-documentation skill for this request.
+
+Collect the required inputs together if they are not all present: github_repository_url, template_path, confluence_mode, and the required Confluence URL for that mode. For private Pedidos Ya repositories, accept either git@github.com:PedidosYa/<repository>.git or https://github.com/PedidosYa/<repository>.git. Do not use the current directory as the repository source.
+
+Arguments supplied by the user:
+{{args}}
+"""
