@@ -1,0 +1,14 @@
+.gemini/skills/data-product-documentation/SKILL.md
+  h_bcb1258d08df4b 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "3c3bcfadc98b0f5b8b09b4a6f3cbec5033962ddd",
+  "prompts": {},
+  "humans": {
+    "h_bcb1258d08df4b": {
+      "author": "valendasilva <valentina.dasilva@pediosya.com>"
+    }
+  }
+}
